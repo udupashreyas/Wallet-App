@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wallet</string>
+    <string name="money_left">You have x Rs in your wallet</string>
+    <string name="money_spend">Spend</string>
+    <string name="money_income">Add money to wallet</string>
+    <string name="money_history">View expenditures</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_spend_money">SpendMoney</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_add_money">AddMoney</string>
+    <string name="title_activity_expense">Expense</string>
+    <string name="title_activity_owe_money">OweMoney</string>
+
+</resources>

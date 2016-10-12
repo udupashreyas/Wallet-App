@@ -1,0 +1,78 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        tools:context="com.example.udupa.wallet.Expense">
+
+        <Button
+            android:id="@+id/jan"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="January" />
+        <Button
+            android:id="@+id/feb"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="February" />
+        <Button
+            android:id="@+id/mar"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="March" />
+        <Button
+            android:id="@+id/apr"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="April" />
+        <Button
+            android:id="@+id/may"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="May" />
+        <Button
+            android:id="@+id/jun"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="June" />
+        <Button
+            android:id="@+id/jul"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="July" />
+        <Button
+            android:id="@+id/aug"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="August" />
+        <Button
+            android:id="@+id/sep"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="September" />
+        <Button
+            android:id="@+id/oct"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="October" />
+        <Button
+            android:id="@+id/nov"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="November" />
+        <Button
+            android:id="@+id/dec"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="December" />
+
+    </LinearLayout>
+</ScrollView>
